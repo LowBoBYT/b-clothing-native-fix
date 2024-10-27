@@ -24,3 +24,7 @@ Due to a recent FiveM build update, there is a bug in the `b-clothing` script th
 
 4. **Save and restart the script**  
    Save the changes and restart the script. The issue should now be resolved, and it should work perfectly again!
+
+## Credits
+This quick fix was provided by [LowBoBYT](https://github.com/LowBoBYT).  
+Join the community on Discord: [https://discord.gg/xeonrp](https://discord.gg/xeonrp)
